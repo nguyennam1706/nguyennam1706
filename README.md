@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyennam1706&show_icons=true&locale=en" alt="nguyennam1706" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennam1706&" alt="nguyennam1706" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nguyennam1706)](https://git.io/streak-stats)
