@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyennam1706" alt="nguyennam1706" /></a> </p>
 
-- 🔭 I’m currently working on [X81 DIGITAL SOLUTIONS JOINT STOCK COMPANY](https://x81.com.vn/)
+- 🔭 I’m currently working on [PERCAS STUDIO]([(https://www.facebook.com/percas.vn)])
 
 - 🌱 I’m currently learning **Unity, C#**
 
